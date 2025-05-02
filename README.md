@@ -25,7 +25,7 @@ A  Java command-line application to manage service providers, subscribers, and b
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/oktaykorkut/TelecomBillingSystem.git
+   git clone https://github.com/oktaykorkut/TelecomAndBillingSystem.git
    cd TelecomBillingSystem
    ```
 
