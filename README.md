@@ -45,13 +45,13 @@ Follow the interactive menu to explore creating providers, adding subscribers, r
 
 ##  Project Structure
 
-\`\`\`
+```
 TelecomBillingSystem/
 ├── Main.java             # Entry point with menu-driven UI
 ├── ServiceProvider.java  # Model and management for telecom providers
 ├── Subscriber.java       # Subscriber model with usage tracking
 └── Invoice.java          # Invoice model with billing logic
-\`\`\`
+```
 
 ---
 
